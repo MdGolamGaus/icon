@@ -1,0 +1,9 @@
+---FORM----
+why ID?
+When we click on label text it will highlight the input field. label for="email" and ID="email" have to match.
+
+why class?
+For doing CSS 
+
+why name?
+it is data field and use to pass data to backend
